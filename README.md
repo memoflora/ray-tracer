@@ -1,1 +1,1 @@
-Ray tracer written in C++, following https://raytracing.github.io/books/RayTracingInOneWeekend.html
+Reference: https://raytracing.github.io/books/RayTracingInOneWeekend.html
